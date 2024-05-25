@@ -2,19 +2,19 @@
     {
         "items": [
             {
-                "id": "m2",
-                "name": "Margherita Pizza",
-                "price": "12.99",
-                "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
-                "image": "images/margherita-pizza.jpg",
+                "id": "m4",
+                "name": "Spaghetti Carbonara",
+                "price": "10.99",
+                "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
+                "image": "images/spaghetti-carbonara.jpg",
                 "quantity": 2
             },
             {
-                "id": "m1",
-                "name": "Mac & Cheese",
-                "price": "8.99",
-                "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-                "image": "images/mac-and-cheese.jpg",
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
                 "quantity": 1
             }
         ],
@@ -25,24 +25,24 @@
             "postal-code": "7832738",
             "city": "sheiopaudd"
         },
-        "id": "238.9466316525346"
+        "id": "790.4766597973019"
     },
     {
         "items": [
             {
-                "id": "m2",
-                "name": "Margherita Pizza",
-                "price": "12.99",
-                "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
-                "image": "images/margherita-pizza.jpg",
-                "quantity": 2
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
             },
             {
-                "id": "m1",
-                "name": "Mac & Cheese",
-                "price": "8.99",
-                "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-                "image": "images/mac-and-cheese.jpg",
+                "id": "m5",
+                "name": "Veggie Burger",
+                "price": "9.99",
+                "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+                "image": "images/veggie-burger.jpg",
                 "quantity": 1
             }
         ],
@@ -50,9 +50,9 @@
             "name": "Rohit",
             "email": "rohit120@g.com",
             "street": "rohitStreet5",
-            "postal-code": "123456",
+            "postal-code": "123457",
             "city": "sheiopaud"
         },
-        "id": "644.9269992252238"
+        "id": "918.2000684489093"
     }
 ]
